@@ -112,18 +112,12 @@ exploit shared task relationships.
 ## Requirements
 
 Python 3.x
-
-NumPy
-
-Pandas
-
-Scikit-learn
-
-PyTorch
-
-Matplotlib
-
-Seaborn
+- NumPy
+- Pandas
+- Scikit-learn
+- PyTorch
+- Matplotlib
+- Seaborn
 
 Install the required packages with:
 
