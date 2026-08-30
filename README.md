@@ -111,7 +111,7 @@ exploit shared task relationships.
 
 ## Requirements
 
-Python 3.x
+- Python 3.x
 - NumPy
 - Pandas
 - Scikit-learn
