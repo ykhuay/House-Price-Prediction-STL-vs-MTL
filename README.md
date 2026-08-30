@@ -1,5 +1,3 @@
-# STL-vs-MTL-House-Price-Prediction
-
 # House Price Prediction: STL vs MTL
 
 ## Overview
