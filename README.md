@@ -108,3 +108,22 @@ non-linear relationships in the dataset.
 The relatively limited contextual and geographical information in the
 King County dataset also made it difficult for the MTL approach to fully
 exploit shared task relationships.
+
+## Requirements
+
+Python 3.x
+NumPy
+Pandas
+Scikit-learn
+PyTorch
+Matplotlib
+Seaborn
+
+Install the required packages with:
+```pip install numpy pandas scikit-learn torch matplotlib seaborn```
+
+## Running the Project
+
+Clone the repository:
+```git clone https://github.com/ykhuay/House-Price-Prediction-STL-vs-MTL```
+```cd House-Price-Prediction-STL-vs-MTL```
